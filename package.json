@@ -1,6 +1,6 @@
 {
   "name": "ncr-unicode-data-ucd-9.0.0",
-  "version": "1.0.0",
+  "version": "9.0.0",
   "description": "Raw text files containing Unicode data: used by the `ncr` package'",
   "main": "index.js",
   "scripts": {
